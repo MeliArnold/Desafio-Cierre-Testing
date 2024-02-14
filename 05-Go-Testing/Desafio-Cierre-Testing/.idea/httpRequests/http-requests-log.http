@@ -1,0 +1,9 @@
+GET http://localhost:8080/product/
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.9)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-02-14T164106.200.json
+
+###
+

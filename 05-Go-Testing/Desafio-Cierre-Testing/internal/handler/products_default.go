@@ -20,7 +20,7 @@ type ProductsDefault struct {
 	rp internal.RepositoryProducts
 }
 
-// ProductJSON is an struct that represents a product in JSON format.
+// ProductJSON is a struct that represents a product in JSON format.
 type ProductJSON struct {
 	Id          int     `json:"id"`
 	Description string  `json:"description"`
